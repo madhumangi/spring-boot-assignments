@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-basic/spring-rest-basic.iml" filepath="$PROJECT_DIR$/spring-rest-basic/spring-rest-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-bookapp/spring-rest-bookapp.iml" filepath="$PROJECT_DIR$/spring-rest-bookapp/spring-rest-bookapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" filepath="$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-cameraresponseexception/spring-rest-cameraresponseexception.iml" filepath="$PROJECT_DIR$/spring-rest-cameraresponseexception/spring-rest-cameraresponseexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-furnexception/spring-rest-furnexception.iml" filepath="$PROJECT_DIR$/spring-rest-furnexception/spring-rest-furnexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-productresponse/spring-rest-productresponse.iml" filepath="$PROJECT_DIR$/spring-rest-productresponse/spring-rest-productresponse.iml" />
+    </modules>
+  </component>
+</project>
